@@ -10,9 +10,13 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Inconsolata", monospace;
-  color: #18a3d1;
+  /* color: #18a3d1; */
+  color: #04497fa7;
 }
 
+strong {
+  color: #18a3d1;
+}
 a {
   color: #18a3d1;
   text-decoration: none;
